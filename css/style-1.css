@@ -19,3 +19,16 @@ header {
     width: 100px;
     padding: 15px 200px;
 }
+
+#autore {
+    color: blue;
+}
+
+.corpo {
+    width: 70%;
+    margin: auto;
+}
+
+.description-image {
+    font-size: 10px;
+}
